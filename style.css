@@ -25,6 +25,7 @@ nav{
 .line{
     width: 3vmax;
     height: 0.2vmax;
+    border-radius: 100px;
     margin-bottom: 0.5vmax;
     background-color: white;
     transition: 0.5s;
